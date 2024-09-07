@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at Universitas Pembangunan Nasional "Veteran" Yogyakarta, currently pursuing my passion in web development and machine learning. As the Vice Head of the Division in UPNVY's IT Club, I actively engage in collaborative projects that enhance my technical and leadership skills. I am constantly seeking opportunities to learn and grow, particularly in creating innovative web solutions and exploring the exciting potential of AI-driven technologies. My GitHub is where I share my journey and showcase the projects I'm working on.
+I am a student at Universitas Pembangunan Nasional "Veteran" Yogyakarta, currently pursuing my passion in web development and machine learning. As the Vice Head of the Web Division in UPNVY's IT Club, I actively engage in collaborative projects that enhance my technical and leadership skills. I am constantly seeking opportunities to learn and grow, particularly in creating innovative web solutions and exploring the exciting potential of AI-driven technologies. My GitHub is where I share my journey and showcase the projects I'm working on.
 
 
 ## 🌐 Socials:
